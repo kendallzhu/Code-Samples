@@ -8,3 +8,5 @@ priority_queue (fall 2016) - code from Harvard Undergraduate Robotics Club Micro
 TimeOffQueries (summer 2017) - Paginated GraphQL queries to deliver data to frontend via Apollo, from Aday codebase. 
 
 WorkplaceDrawer (summer 2017) - code from Aday Technologies website where I integrated AWS image uploading.
+
+relation_extraction (spring 2018) - nlp project to extract relationships between people mentioned in a text
